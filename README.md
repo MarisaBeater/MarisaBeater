@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=F7A1C4&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+Marisa+♡;Girl+dev+who+codes+and+animates;Cute+projects%2C+serious+builds" />
+font=Inter&size=24&pause=1200&color=F7A1C4&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+Marisa+♡;Girl+dev+who+codes+and+animates;Cute+projects%2C+serious+builds" />
 
 <br />
 
