@@ -1,27 +1,3 @@
-<div align="center">
-
-<br />
-
-<p align="center">
-  <b>Developer • Animator • Creative Builder</b><br />
-  I like to code, animate, and build cute things that actually work.
-</p>
-
-<br />
-
-<a href="https://x.com/beatersol">
-  <img src="https://img.shields.io/badge/X-@beatersol-f6a6c9?style=for-the-badge" />
-</a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/dev-girl%20developer-ffc0dd?style=flat" />
-<img src="https://img.shields.io/badge/likes-animation%20%26%20ui-f5b2ff?style=flat" />
-<img src="https://img.shields.io/badge/vibe-kawaii%20but%20serious-ffd6eb?style=flat" />
-
-</div>
-
----
 
 ## 🌸 About Me
 
@@ -60,10 +36,3 @@ Yes, it still ships.
 - Long-term projects with personality  
 
 ---
-
-## 💖 Find Me
-
-🐦 X: https://x.com/beatersol  
-💻 GitHub: https://github.com/marisabeater  
-
-Thanks for stopping by ♡
